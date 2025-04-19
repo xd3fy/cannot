@@ -1,0 +1,15 @@
+{
+    "users": {
+        "123456789012345678": {
+            "display_name": "PlayerOne",
+            "rank": "R8",
+            "tier": "Low",
+            "strikes": {
+                "host_strikes": 0,
+                "grief_strikes": 0
+            }
+        }
+    }
+}
+
+    
